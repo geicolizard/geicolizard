@@ -1,5 +1,4 @@
-- Hi, I’m @geicolizard
-- I'm interested in mathematics, astrophysics, and many other subjects.
+- Hi, I’m @geicolizard!
 
 <!---
 geicolizard/geicolizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
